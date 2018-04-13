@@ -68,4 +68,4 @@ $ sudo apt-get git
 
 サイトからvivaldi-snapshotをダウンロード,インストール
 
-![vivaldi-snapshot](https://jp.vivaldi.net/category/snapshot/)
+[vivaldi-snapshot](https://jp.vivaldi.net/category/snapshot/)
